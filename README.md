@@ -44,7 +44,11 @@
 ## 📌 Featured Projects
 🔹 [AI Law Study Buddy](#) – AI-powered study companion for Italian Law students (Voice + Q&A).  
 🔹 [YouTube Summarizer](#) – Extract & summarize YouTube video audio with AI.  
-🔹 [Dynamic Bootstrap Carousel](#) – PowerPoint-like carousel with user inputs.  
+🔹flutter_full_stack_app_developer.ai
+🔹PPT.ai 
+🔹FigmaAndWebsiteBuilder
+🔹WebSiteBuilderByAreef  
+🔹theory.ai
 
 ---
 

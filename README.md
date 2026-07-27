@@ -3,22 +3,23 @@
 </h1>
 
 <h3 align="center">
-📱 Flutter Developer | 💙 Dart Enthusiast | 🚀 Mobile App Developer
+📱 Flutter Developer | 🔥 Firebase | ⚡ FastAPI | 💙 Dart Developer
 </h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=22&pause=1000&color=42A5F5&center=true&vCenter=true&width=700&lines=Building+Beautiful+Flutter+Applications;Cross-Platform+Mobile+Developer;Creating+Responsive+and+Scalable+Apps;Always+Learning+New+Flutter+Technologies" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=22&pause=1000&color=42A5F5&center=true&vCenter=true&width=750&lines=Flutter+Developer;Building+Cross-Platform+Mobile+Applications;Flutter+%2B+Firebase+%2B+FastAPI;Creating+Modern+and+Scalable+Apps" />
 </p>
 
 ---
 
 # 🚀 About Me
 
-- 📱 Flutter Developer passionate about building high-quality cross-platform mobile applications.
-- 💙 Focused on creating responsive, clean, and user-friendly mobile experiences.
-- 🔥 Experienced with Firebase, REST APIs, Authentication, State Management, and Local Storage.
-- 🌱 Currently improving my Flutter architecture, animations, and performance optimization skills.
-- 🎯 Goal: Become a Senior Flutter Developer and build products used by millions.
+- 📱 Flutter Developer passionate about building modern cross-platform mobile applications.
+- 💙 Experienced in developing responsive Flutter UI from Figma designs.
+- 🔥 Working with Firebase for authentication, cloud storage, and backend services.
+- ⚡ Exploring FastAPI for building fast and scalable backend APIs.
+- 🌱 Continuously learning Flutter architecture, state management, and clean code practices.
+- 🎯 Goal: Become a Senior Flutter Full Stack Developer.
 - 📍 Hyderabad, India
 
 ---
@@ -31,25 +32,19 @@
 <img src="https://skillicons.dev/icons?i=flutter,dart,firebase&perline=8"/>
 </p>
 
-### 💻 Programming
+### ⚡ Backend
 
 <p>
-<img src="https://skillicons.dev/icons?i=dart,python,javascript&perline=8"/>
+<img src="https://skillicons.dev/icons?i=fastapi,python&perline=8"/>
 </p>
 
-### 🌐 Backend & APIs
+### 💾 Database
 
 <p>
-<img src="https://skillicons.dev/icons?i=firebase,fastapi,django&perline=8"/>
+<img src="https://skillicons.dev/icons?i=firebase,mysql,sqlite&perline=8"/>
 </p>
 
-### 🗄 Databases
-
-<p>
-<img src="https://skillicons.dev/icons?i=mysql,sqlite&perline=8"/>
-</p>
-
-### 🛠 Tools
+### 🛠 Development Tools
 
 <p>
 <img src="https://skillicons.dev/icons?i=git,github,vscode,androidstudio,postman&perline=8"/>
@@ -57,54 +52,59 @@
 
 ---
 
-# 📌 Featured Flutter Projects
+# 🚀 Featured Projects
+
+### ✅ Flutter Todo App
+- Cross-platform task management application
+- Responsive Flutter UI
+- State Management
+- CRUD Operations
+- Git & GitHub
 
 ### 📱 Flutter Full Stack App
-Complete Flutter application integrated with backend APIs, authentication, and database.
+- Flutter Frontend
+- FastAPI Backend
+- Firebase Authentication
+- REST API Integration
 
 ### 🏠 Real Estate Mobile App
-Modern real estate application with property listings, search, authentication, and responsive UI.
+- Property Listings
+- Responsive UI
+- Firebase Backend
+- API Integration
 
 ### 🎥 Video Calling App
-Flutter application featuring authentication, real-time communication, and video calling functionality.
-
-### 🤖 AI Chat Application
-Flutter application integrated with AI APIs for intelligent conversations and productivity.
-
-### 🌐 Website Builder
-Cross-platform Flutter project focused on modern UI and responsive experiences.
-
-### 🎨 Figma to Flutter UI
-Pixel-perfect Flutter implementation from Figma designs.
+- Flutter
+- Firebase
+- Real-time Communication
 
 ---
 
-# 💡 Flutter Skills
+# 💡 Skills
 
 - Flutter
 - Dart
-- Firebase Authentication
-- Cloud Firestore
-- Firebase Storage
+- Firebase
+- FastAPI
 - REST APIs
 - JSON Parsing
-- API Integration
-- GetX
-- Provider
 - Responsive UI
 - Material Design
-- SharedPreferences
-- SQLite
+- Authentication
+- State Management
 - Git & GitHub
 - Android Studio
 - VS Code
-- State Management
+- Figma to Flutter
+- API Integration
+- SQLite
+- MySQL
 - Clean UI
-- Performance Optimization
+- Cross-Platform Development
 
 ---
 
-# 📈 GitHub Stats
+# 📊 GitHub Stats
 
 <p align="center">
 
@@ -140,8 +140,8 @@ Pixel-perfect Flutter implementation from Figma designs.
 
 <p align="center">
 
-### 💙 "Crafting beautiful Flutter experiences, one widget at a time."
+### 💙 "Building beautiful, fast, and scalable Flutter applications."
 
-⭐ If you like my work, don't forget to star my repositories!
+⭐️ Thanks for visiting my profile!
 
 </p>

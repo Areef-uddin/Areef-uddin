@@ -1,128 +1,159 @@
-<h1 align="center">
-  Hi, I'm Mohammed Areefuddin 👋
-</h1>
+<h1 align="center">Hi 👋, I'm Mohammed Areefuddin</h1>
 
 <h3 align="center">
-📱 Flutter Developer | 🔥 Firebase | ⚡ FastAPI | 💙 Dart Developer
+Flutter Developer | Python & FastAPI Backend Developer | AI Enthusiast
 </h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=22&pause=1000&color=42A5F5&center=true&vCenter=true&width=750&lines=Flutter+Developer;Building+Cross-Platform+Mobile+Applications;Flutter+%2B+Firebase+%2B+FastAPI;Creating+Modern+and+Scalable+Apps" />
+  <a href="https://github.com/Areef-uddin">
+    <img src="https://komarev.com/ghpvc/?username=Areef-uddin&label=Profile%20Views&color=blueviolet&style=flat" alt="Profile Views" />
+  </a>
 </p>
 
 ---
 
-# 🚀 About Me
+## 👨‍💻 About Me
 
-- 📱 Flutter Developer passionate about building modern cross-platform mobile applications.
-- 💙 Experienced in developing responsive Flutter UI from Figma designs.
-- 🔥 Working with Firebase for authentication, cloud storage, and backend services.
-- ⚡ Exploring FastAPI for building fast and scalable backend APIs.
-- 🌱 Continuously learning Flutter architecture, state management, and clean code practices.
-- 🎯 Goal: Become a Senior Flutter Full Stack Developer.
-- 📍 Hyderabad, India
+* 📱 I am passionate about **Mobile App Development**
+* 🔭 Currently building projects using **Flutter & Firebase**
+* 🌱 Learning **Python, FastAPI, Backend Development, AI & Machine Learning**
+* 🚀 My goal is to become a strong **Full Stack Mobile & Backend Developer**
+* 💼 Open to **Flutter, Python and Backend Developer opportunities**
+* ⚡ I enjoy learning by **building real-world projects**
 
 ---
 
-# 🛠 Tech Stack
+## 🛠️ Languages & Technologies
 
 ### 📱 Mobile Development
 
-<p>
-<img src="https://skillicons.dev/icons?i=flutter,dart,firebase&perline=8"/>
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=flutter,dart,androidstudio,kotlin" />
 </p>
 
-### ⚡ Backend
+### ⚡ Backend Development
 
-<p>
-<img src="https://skillicons.dev/icons?i=fastapi,python&perline=8"/>
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=python,fastapi" />
 </p>
 
-### 💾 Database
+### 🔥 Backend Services & Databases
 
-<p>
-<img src="https://skillicons.dev/icons?i=firebase,mysql,sqlite&perline=8"/>
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=firebase,postgresql,mysql" />
 </p>
 
-### 🛠 Development Tools
+### 🤖 AI & Machine Learning
 
-<p>
-<img src="https://skillicons.dev/icons?i=git,github,vscode,androidstudio,postman&perline=8"/>
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=python" />
+</p>
+
+* Generative AI
+* Machine Learning
+* AI APIs
+* LLM Applications
+
+### 🎨 Tools & Platforms
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,figma,postman" />
 </p>
 
 ---
 
-# 🚀 Featured Projects
+## 🚀 What I'm Currently Learning
 
-### ✅ Flutter Todo App
-- Cross-platform task management application
-- Responsive Flutter UI
-- State Management
-- CRUD Operations
-- Git & GitHub
-
-### 📱 Flutter Full Stack App
-- Flutter Frontend
-- FastAPI Backend
-- Firebase Authentication
-- REST API Integration
-
-### 🏠 Real Estate Mobile App
-- Property Listings
-- Responsive UI
-- Firebase Backend
-- API Integration
-
-### 🎥 Video Calling App
-- Flutter
-- Firebase
-- Real-time Communication
+```text
+📱 Flutter & Advanced Firebase
+⚡ FastAPI & REST APIs
+🔐 JWT Authentication
+🗄️ PostgreSQL & SQLAlchemy
+🤖 Artificial Intelligence
+```
 
 ---
 
-# 💡 Skills
-
-- Flutter
-- Dart
-- Firebase
-- FastAPI
-- REST APIs
-- JSON Parsing
-- Responsive UI
-- Material Design
-- Authentication
-- State Management
-- Git & GitHub
-- Android Studio
-- VS Code
-- Figma to Flutter
-- API Integration
-- SQLite
-- MySQL
-- Clean UI
-- Cross-Platform Development
-
-
-# 🌐 Connect With Me
+## 📊 GitHub Statistics
 
 <p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Areef-uddin&show_icons=true&theme=tokyonight&hide_border=true" height="170"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Areef-uddin&theme=tokyonight&hide_border=true" height="170"/>
+</p>
 
-<a href="https://www.linkedin.com/in/mohammed-areefuddin-74520a26a/">
-<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
-
-<a href="mailto:mdareefuddin2@gmail.com">
-<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
-
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Areef-uddin&layout=compact&theme=tokyonight&hide_border=true"/>
 </p>
 
 ---
 
+## 🚀 My Development Journey
+
+```text
+Flutter & Firebase        ████████████░░░░░░
+Python                    ██████████░░░░░░░░
+FastAPI                   ████████░░░░░░░░░░
+REST APIs                 ████████░░░░░░░░░░
+PostgreSQL                ██████░░░░░░░░░░░░         
+AI & Machine Learning    █████░░░░░░░░░░░░░
+```
+
+---
+
+## 📌 Featured Projects
+
+### 📱 Flutter Applications
+
+🔹 **E-Commerce App**
+Flutter application with modern UI, Firebase integration, authentication, products, and payment features.
+
+🔹 **Task Management App**
+A productivity application built with Flutter for managing daily tasks.
+
+### ⚡ FastAPI Backend Projects
+
+🔹 **JWT Authentication API**
+Secure authentication system using:
+
+* FastAPI
+* JWT
+* PostgreSQL
+* SQLAlchemy
+* Password Hashing
+
+🔹 **REST API Backend**
+Backend services with database integration, authentication, CRUD operations, and API documentation.
+
+---
+
+## 🎯 2026 Goals
+
+* 🚀 Build production-level Flutter applications
+* ⚡ Master FastAPI and backend development
+* 🔐 Build secure authentication systems
+* 🗄️ Improve PostgreSQL and database skills
+* 🤖 Build AI-powered applications
+* 💼 Get my first strong software development role
+* 🌎 Contribute to open-source projects
+
+---
+
+## 🤝 Connect With Me
+
+<p align="left">
+  <a href="https://github.com/Areef-uddin">
+    <img src="https://img.shields.io/badge/GitHub-Areef--uddin-181717?style=for-the-badge&logo=github&logoColor=white"/>
+  </a>
+</p>
+
+---
+
+<h3 align="center">⚡ Code. Build. Learn. Repeat. ⚡</h3>
+
 <p align="center">
+  <i>"Great developers are not born by knowing everything — they become great by building, learning, and never giving up."</i>
+</p>
 
-### 💙 "Building beautiful, fast, and scalable Flutter applications."
-
-⭐️ Thanks for visiting my profile!
-
+<p align="center">
+  ⭐ Feel free to explore my repositories and connect with me!
 </p>

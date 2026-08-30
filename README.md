@@ -5,16 +5,18 @@ Flutter Developer | Python & FastAPI Backend Developer | AI Enthusiast
 </h3>
 
 <p align="center">
-  <a href="https://github.com/Areef-uddin">
-    <img src="https://komarev.com/ghpvc/?username=Areef-uddin&label=Profile%20Views&color=blueviolet&style=flat" alt="Profile Views" />
-  </a>
+  <img src="https://komarev.com/ghpvc/?username=Areef-uddin&label=Profile%20Views&color=blueviolet&style=flat" alt="Profile Views" />
+</p>
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=800&lines=Flutter+Developer;Python+%26+FastAPI+Backend+Developer;Firebase+%7C+PostgreSQL+%7C+REST+APIs;Building+Real+World+Applications+🚀" />
 </p>
 
 ---
 
 ## 👨‍💻 About Me
 
-* 📱 I am passionate about **Mobile App Development**
+* 📱 Passionate about **Mobile App Development**
 * 🔭 Currently building projects using **Flutter & Firebase**
 * 🌱 Learning **Python, FastAPI, Backend Development, AI & Machine Learning**
 * 🚀 My goal is to become a strong **Full Stack Mobile & Backend Developer**
@@ -23,41 +25,40 @@ Flutter Developer | Python & FastAPI Backend Developer | AI Enthusiast
 
 ---
 
-## 🛠️ Languages & Technologies
+## 🛠️ Skills & Technologies
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=2500&pause=700&color=00D9FF&center=true&vCenter=true&width=800&lines=📱+Flutter+%26+Mobile+Development;⚡+Python+%26+FastAPI+Backend+Development;🔥+Firebase+%26+Database+Technologies;🤖+AI+%26+Machine+Learning;🛠️+Always+Learning+New+Technologies" />
+</p>
 
 ### 📱 Mobile Development
 
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=flutter,dart,androidstudio,kotlin" />
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=flutter,dart,androidstudio,kotlin&perline=8" />
 </p>
 
 ### ⚡ Backend Development
 
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=python,fastapi" />
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,fastapi,postgresql,mysql&perline=8" />
 </p>
 
-### 🔥 Backend Services & Databases
+### 🔥 Firebase & Cloud
 
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=firebase,postgresql,mysql" />
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=firebase&perline=8" />
 </p>
 
 ### 🤖 AI & Machine Learning
 
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=python" />
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&duration=2500&pause=800&color=FF6B35&center=true&vCenter=true&width=500&lines=Generative+AI;Machine+Learning;AI+APIs;LLM+Applications" />
 </p>
-
-* Generative AI
-* Machine Learning
-* AI APIs
-* LLM Applications
 
 ### 🎨 Tools & Platforms
 
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,figma,postman" />
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,figma,postman&perline=8" />
 </p>
 
 ---
@@ -94,7 +95,7 @@ Flutter & Firebase        ████████████░░░░░░
 Python                    ██████████░░░░░░░░
 FastAPI                   ████████░░░░░░░░░░
 REST APIs                 ████████░░░░░░░░░░
-PostgreSQL                ██████░░░░░░░░░░░░         
+PostgreSQL                ██████░░░░░░░░░░░░
 AI & Machine Learning    █████░░░░░░░░░░░░░
 ```
 
@@ -113,6 +114,7 @@ A productivity application built with Flutter for managing daily tasks.
 ### ⚡ FastAPI Backend Projects
 
 🔹 **JWT Authentication API**
+
 Secure authentication system using:
 
 * FastAPI
@@ -122,6 +124,7 @@ Secure authentication system using:
 * Password Hashing
 
 🔹 **REST API Backend**
+
 Backend services with database integration, authentication, CRUD operations, and API documentation.
 
 ---
@@ -140,13 +143,17 @@ Backend services with database integration, authentication, CRUD operations, and
 
 ## 🤝 Connect With Me
 
-<p align="left">
+<p align="center">
   <a href="https://github.com/Areef-uddin">
-    <img src="https://img.shields.io/badge/GitHub-Areef--uddin-181717?style=for-the-badge&logo=github&logoColor=white"/>
+    <img src="https://img.shields.io/badge/GitHub-Areef--uddin-181717?style=for-the-badge&logo=github&logoColor=white" />
   </a>
 </p>
 
 ---
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00c6ff,100:0072ff&height=120&section=footer" width="100%" />
+</p>
 
 <h3 align="center">⚡ Code. Build. Learn. Repeat. ⚡</h3>
 

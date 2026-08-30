@@ -73,18 +73,7 @@ Flutter Developer | Python & FastAPI Backend Developer | AI Enthusiast
 
 ---
 
-## 📊 GitHub Statistics
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Areef-uddin&show_icons=true&theme=tokyonight&hide_border=true" height="170"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Areef-uddin&theme=tokyonight&hide_border=true" height="170"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Areef-uddin&layout=compact&theme=tokyonight&hide_border=true"/>
-</p>
-
----
 
 ## 🚀 My Development Journey
 
